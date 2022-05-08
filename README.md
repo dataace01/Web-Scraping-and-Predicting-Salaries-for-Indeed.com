@@ -55,5 +55,5 @@ The ROC Curve  plotted above for class 1 High Salary and class 0 Low Salary. As 
 
 ROC gives a visualisation of the increased number of false positives for each increase in true positives that my models predict.
 
-Copy Right © | Olga Caireac | General Assemply | 
-Copy Right © | Olga Caireac | General Assemply | 
+Copy Right © | Iuri Catasov
+Copy Right © | Iuri Catasov
